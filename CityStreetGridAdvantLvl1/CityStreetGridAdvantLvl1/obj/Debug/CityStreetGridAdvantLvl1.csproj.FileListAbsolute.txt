@@ -1,0 +1,13 @@
+c:\users\david.barnes\documents\visual studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\bin\Debug\CityStreetGridAdvantLvl1.exe.config
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\bin\Debug\CityStreetGridAdvantLvl1.exe
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\bin\Debug\CityStreetGridAdvantLvl1.pdb
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\MainWindow.baml
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\MainWindow.g.cs
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\App.g.cs
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1_MarkupCompile.cache
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.g.resources
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.Properties.Resources.resources
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.csproj.GenerateResource.Cache
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.exe
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.pdb
+C:\Users\david.barnes\Documents\Visual Studio 2013\Projects\CityStreetGridAdvantLvl1\CityStreetGridAdvantLvl1\obj\Debug\CityStreetGridAdvantLvl1.csprojResolveAssemblyReference.cache
